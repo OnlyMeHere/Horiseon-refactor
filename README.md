@@ -1,6 +1,6 @@
 # Horiseon ReFactor
 
-Refactored to meet accessibility standards and Search Engingine Optimization.
+Refactored to meet accessibility standards and Search Engine Optimization.
 
 ## Description 
 
