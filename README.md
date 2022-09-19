@@ -1,5 +1,7 @@
 # Horiseon ReFactor
 
+Refactored to meet accessibility standards and Search Engingine Optimization.
+
 ## Description 
 
  The Client asked for a codebase that follows accessibility standards in order to optimize the site for search engines. This entails refactoring the code to include symatic elements, meaning code that makes the website more accessable to all user's. That request also prompted descriptions of all images on the page be informative and convaying the brand intent and quality.
